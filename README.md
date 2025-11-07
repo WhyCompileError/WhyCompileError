@@ -23,7 +23,7 @@ Hi! I am Emily the one who is behind WhyCompileError. I learn to write code, cry
 ## The Strategy:
 1.  Write code.
 2.  Hope the compiler doesn't yell at me.
-3.  Wonder why compiler error. Cry.
+3.  Wonder why compile error. Cry.
 4.  Fix it (hopefully).
 5.  Document it so future me suffers less.
 
