@@ -8,7 +8,7 @@ Hi! I am Emily the one who is behind WhyCompileError. I learn to write code, cry
 <br><br> 
 ## 🌱Skill Tree Unlocks
 
-**Unlocked:**
+**✅Unlocked:**
 - **HTML** - Structured pages, woot woot.
 - **CSS** - Everything was centered... eventually.
 
