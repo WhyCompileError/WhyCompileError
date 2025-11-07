@@ -2,7 +2,6 @@
 
 *"me write code. code no work. why compile error?"*
 
----
 
 ## About Me
 Hi! I am Emily the one who is behind WhyCompileError. I learn to write code, cry a little bit, and document so future me can look back and learn... or maybe laugh.
