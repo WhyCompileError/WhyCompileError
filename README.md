@@ -5,7 +5,7 @@
 
 ## About Me
 Hi! I am Emily the one who is behind WhyCompileError. I learn to write code, cry a little bit, and document so future me can look back and learn... or maybe laugh.
-<br><br> 
+<br>
 ## 🌱Skill Tree Unlocks
 
 **✅Unlocked:**
@@ -18,7 +18,6 @@ Hi! I am Emily the one who is behind WhyCompileError. I learn to write code, cry
 **🔒Future Unlocks:**
 - **JavaScript** - the final  piece of the front-end ritual.
 
-<br>
 
 ## The Strategy:
 1.  Write code.
